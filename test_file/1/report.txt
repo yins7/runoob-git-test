@@ -1,0 +1,27 @@
+
+
+=================================1/3/install_gcc.sh===================================
+
+1/3/install_gcc.sh:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+1/3/install_gcc.sh:2:  At least two spaces is best between code and comments  [whitespace/comments] [2]
+1/3/install_gcc.sh:2:  Should have a space between // and comment  [whitespace/comments] [4]
+Category 'whitespace/comments' errors found: 2
+Category 'legal/copyright' errors found: 1
+Done processing 1/3/install_gcc.sh
+Total errors found: 3
+
+=================================1/location_server.sh===================================
+
+1/location_server.sh:6:  Extra space before ( in function call  [whitespace/parens] [4]
+1/location_server.sh:10:  At least two spaces is best between code and comments  [whitespace/comments] [2]
+1/location_server.sh:10:  Should have a space between // and comment  [whitespace/comments] [4]
+1/location_server.sh:19:  Missing spaces around =  [whitespace/operators] [4]
+1/location_server.sh:19:  Extra space after (  [whitespace/parens] [2]
+1/location_server.sh:19:  Extra space before )  [whitespace/parens] [2]
+1/location_server.sh:23:  Missing space before {  [whitespace/braces] [5]
+Category 'whitespace/operators' errors found: 1
+Category 'whitespace/comments' errors found: 2
+Category 'whitespace/parens' errors found: 3
+Category 'whitespace/braces' errors found: 1
+Done processing 1/location_server.sh
+Total errors found: 7
